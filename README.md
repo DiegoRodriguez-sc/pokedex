@@ -2,7 +2,7 @@
 
 An app to see the pokemons information using [Poke api](https://pokeapi.co/)
 
-![](./src/assets/pokedex1.png)
+![](./src/assets/pokedex1.PNG)
 
 ### Built With 🛠️
 
